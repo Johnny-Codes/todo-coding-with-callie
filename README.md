@@ -13,3 +13,5 @@ dotnet aspnet-codegenerator controller -name <TodoItemsController> -async -api -
 - Create Model Class
 - Add Database Context
 - Register the Database Context (in Program.cs)
+
+[MongoDB](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/) - @7.0
